@@ -138,23 +138,5 @@ object App {
   ))
 
 
-//  S3 config
-  // Replace Key with your AWS account key (You can find this on IAM
-//  spark.sparkContext
-//    .hadoopConfiguration.set("fs.s3.impl", "org.apache.hadoop.fs.s3native.NativeS3FileSystem")
-//  spark.sparkContext
-//    .hadoopConfiguration.set("fs.s3a.aws.credentials.provider", "org.apache.hadoop.fs.s3native.NativeS3FileSystem")
-//  spark.sparkContext
-//    .hadoopConfiguration.set("fs.s3a.access.key", "gggg")
-//  // Replace Key with your AWS secret key (You can find this on IAM
-//  spark.sparkContext
-//    .hadoopConfiguration.set("fs.s3a.secret.key", "bbbbbb")
-////  spark.sparkContext
-////    .hadoopConfiguration.set("fs.s3a.session.token" , "jjjjjj")
-//  spark.sparkContext
-//    .hadoopConfiguration.set("fs.s3a.endpoint", "s3.amazonaws.com")
-//
-//  val df = spark.read.csv("s3a://capstonproject01/MaxTemperature/temperature.csv")
-//  df.show(false)
-//  df.printSchema()
+
 }
