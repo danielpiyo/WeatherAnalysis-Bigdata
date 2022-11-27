@@ -145,12 +145,12 @@ object App {
 //  spark.sparkContext
 //    .hadoopConfiguration.set("fs.s3a.aws.credentials.provider", "org.apache.hadoop.fs.s3native.NativeS3FileSystem")
 //  spark.sparkContext
-//    .hadoopConfiguration.set("fs.s3a.access.key", "AKIASTOT6LVGOZ7VJRPB")
+//    .hadoopConfiguration.set("fs.s3a.access.key", "gggg")
 //  // Replace Key with your AWS secret key (You can find this on IAM
 //  spark.sparkContext
-//    .hadoopConfiguration.set("fs.s3a.secret.key", "QUYIGw2YHx5kf9WR0imOi0ze9CNiHI0Aveh1ANnf")
+//    .hadoopConfiguration.set("fs.s3a.secret.key", "bbbbbb")
 ////  spark.sparkContext
-////    .hadoopConfiguration.set("fs.s3a.session.token" , "FwoGZXIvYXdzECQaDDjEdo9eDD7YPnBPSyK3AbAwcBZxsBo/ye4ilR6pb8iI3yXEzgrWq8QAFQTAOrMf9Ek0YdDaF/M7V8/9a7qrVdJT/4fmsfWfMV3JzY9C0vgLvCh1yO7rYsADcoPq9c3wEQ7HmyLJ5tjOVWS7KgYHwKkcxRhMU+QJvjSNd+ghekDrQfNRwKMEl0ST9ZMyH4w5aEvzhxU6wXWOV6XgmujhOQDP5OXyGmOaMgQkeREXpSK47WtqzqDQXsZlLKfq/9acSqBjU5JDYSj1go2cBjItvB470DW2YkolUImuTustjj2azlplS/cO+KSleRaPN5I/4e8SV/M2+ZZsiJ8q")
+////    .hadoopConfiguration.set("fs.s3a.session.token" , "jjjjjj")
 //  spark.sparkContext
 //    .hadoopConfiguration.set("fs.s3a.endpoint", "s3.amazonaws.com")
 //
